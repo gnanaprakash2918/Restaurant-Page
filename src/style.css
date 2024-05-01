@@ -15,9 +15,23 @@
   gap: 25px;
   width: 600px;
   margin: 0 auto;
-  margin-top: 80px;
+  margin-top: 70px;
 }
 
 .contact > img {
   width: 500px;
+}
+
+header {
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
 }
