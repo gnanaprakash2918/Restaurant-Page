@@ -1,3 +1,5 @@
+import restImg from './Images/Restaurant-Img.jpg';
+
 function createContact() {
   const contact = document.createElement('div');
   contact.classList.add('contact');

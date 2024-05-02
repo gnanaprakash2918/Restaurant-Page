@@ -1,4 +1,4 @@
-import contact from './menu';
+import loadWebsite from './website.js';
 import './style.css';
 
-contact();
+loadWebsite();
