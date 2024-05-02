@@ -9,7 +9,7 @@ function createContact() {
   address.textContent = 'BellWood, USA';
 
   const restaurantLocation = document.createElement('img');
-  restaurantLocation.src = 'Images/Restaurant-Img.jpg';
+  restaurantLocation.src = './Images/Restaurant-Img.jpg';
 
   contact.appendChild(phNum);
   contact.appendChild(address);
